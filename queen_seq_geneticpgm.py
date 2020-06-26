@@ -10,7 +10,7 @@ totalPopulation = 150
 crossOver = 0.5
 
 
-target = "0 3 4 5 6 1 2 4"
+target = "3 5 7 1 6 0 2 4"
 alpha_list = [chr(x) for x in range(ord('0'), ord('9') + 1)] 
 alpha_list.append(' ')
 print(alpha_list)
